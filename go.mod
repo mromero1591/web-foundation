@@ -4,6 +4,7 @@ go 1.19
 
 require (
 	github.com/dimfeld/httptreemux/v5 v5.5.0
+	github.com/golang-jwt/jwt/v4 v4.4.3
 	github.com/pkg/errors v0.8.1
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.38.0
 	go.opentelemetry.io/otel/trace v1.12.0
