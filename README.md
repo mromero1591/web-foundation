@@ -9,3 +9,4 @@ The following wrappers are present:
 - request
 - response
 - shutdown
+- auth
